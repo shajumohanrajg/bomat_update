@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap&rel=preload");
+
+.vendors {
+  padding: 5%;
+}
+
+.vendors_head {
+  display: flex;
+  flex-flow: row-wrap;
+  column-gap: 1rem;
+  margin-bottom: 50px;
+}
+
+.branches {
+  padding: 5%;
+}
+
+.branches_head {
+  display: flex;
+  flex-flow: row-wrap;
+  column-gap: 1rem;
+  margin-bottom: 50px;
+}
+
+
+.container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 30px;
+  padding: 5%;
+}
+
+.title {
+  padding-top: 50px;
+  text-align: center;
+}
+
+.profile {
+  padding: 5%;
+  display: flex;
+  row-gap: 2rem;
+  flex-direction: column;
+}
+
+.profile_button {
+  display: flex;
+  column-gap: 2rem;
+}
+
+.datagrid {
+  height: 400px;
+  flex-grow: 1;
+}
+
+.navigation_purchase {
+  padding: 50px;
+  display: flex;
+  column-gap: 10px;
+  flex-flow: row wrap;
+}
+
+.plus-btn{
+  padding-top: 16px;
+}
+
+.item-list {
+  padding: 16px;
+}
+
+.pub-list {
+  width:100%;
+  padding: 25px;
+}
+
+.edition {
+  padding: 5%;
+}
+
+.edition_head {
+  display: flex;
+  flex-flow: row-wrap;
+  column-gap: 1rem;
+  margin-bottom: 50px;
+}
+
+.simplebar-placeholder {
+  height: auto !important
+}
